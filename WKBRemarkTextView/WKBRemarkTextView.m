@@ -12,7 +12,7 @@
 
 /*
 // Only override drawRect: if you perform custom drawing.
-// An empty implementation adversely affects performance during animation.zheshi
+// An empty implementation adversely affects performance during animation.zheshi  dfd 
 - (void)drawRect:(CGRect)rect {
     // Drawing code
 }
