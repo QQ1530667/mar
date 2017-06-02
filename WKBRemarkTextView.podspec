@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.author       = {"wangkaibo" => "18346668775m0@sina.cn"}
   s.ios.deployment_target = '7.0'
   s.requires_arc = true
-  s.source       = { :git => "https://github.com/iOSwkb/WKBRemarkTextView.git" :tag => s.version}
+  s.source       = { :git => "https://github.com/iOSwkb/WKBRemarkTextView.git", :tag => s.version}
   s.source_files = "WKBRemarkTextView/**/*.{h,m}"
   s.framework    = 'UIKit', 'Foundation'
   s.module_name  = 'WKBRemarkTextView'
